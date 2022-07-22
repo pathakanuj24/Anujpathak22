@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫About Me :
-🌱I'm currently working on an open-source platform & learning Ml algorithms.
+🌱I'm currently learning React-js and Ml algorithms.
 💬Ask me about Ml and Blockchain
 ✍I am also a medium Blogger I like to write articles about BCI & other upcoming technologies.
 
