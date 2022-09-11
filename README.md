@@ -1,9 +1,13 @@
-### Hi there 👋
+# Hey there 👋
 
 # 💫About Me :
-🌱I'm currently learning React-js and Ml algorithms.
-💬Ask me about Ml and Blockchain
-✍I am also a medium Blogger I like to write articles about BCI & other upcoming technologies.
+👾 I code in C++ and Python, know some javascript and web-dev.
+
+🌱 I'm currently learning React-js and Neural Networks.
+
+💬 Ask me about ML and Blockchain.
+
+✍ I am also a medium Blogger I like to write articles about BCI & other upcoming technologies.
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anuj_1324) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anuj-pathak) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@pathakanuj807) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@pathakanuj24) 
